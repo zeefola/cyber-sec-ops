@@ -1,6 +1,6 @@
 # Task Description
 
-Using the snyk vulnerability [scan report](https://drive.google.com/file/d/1Tyjo9LlV-h37O6njVMCQLtc246tI_Cul/view?usp=sharing), bash script to print each vulnerability title, severity, and cvssScore in table output format.
+Using the snyk vulnerability [scan report](https://drive.google.com/file/d/1Tyjo9LlV-h37O6njVMCQLtc246tI_Cul/view?usp=sharing), bash script to print each vulnerability title, severity, and cvssScore in table output format using jq JSON parser.
 
 ## Requirements 
 
